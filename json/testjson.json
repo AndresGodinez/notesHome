@@ -1,0 +1,20 @@
+{
+  "empleados": [{
+    "nombre": "pedro",
+    "edad": "15"
+  },
+    {
+      "nombre": "jose",
+      "edad": "35"
+    }
+  ],
+  "autos": [{
+    "marca": "aveo",
+    "velocidad": "150km/h"
+  },
+    {
+      "nombre": "pontiac",
+      "edad": "150 km/h"
+    }
+  ]
+}
